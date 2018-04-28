@@ -7,6 +7,8 @@ http://stackoverflow.com/questions/5258829/wrapping-a-function-in-javascript-jqu
 
 ## Install
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/wookets/javascript-wrap.svg)](https://greenkeeper.io/)
+
 In package.json, under dependencies, you can do...
 
 ```"wrap": "https://github.com/wookets/javascript-wrap/0.1.0"```
